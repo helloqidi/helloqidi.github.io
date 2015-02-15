@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1350px;
+  width:1250px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -14,29 +14,29 @@
 }
 #u1 {
   position:absolute;
-  left:100px;
+  left:0px;
   top:0px;
   width:1250px;
-  height:1000px;
+  height:1460px;
 }
 #u1_img {
   position:absolute;
   left:0px;
   top:0px;
   width:1250px;
-  height:1000px;
+  height:1460px;
 }
 #u2 {
   position:absolute;
   left:2px;
-  top:492px;
+  top:722px;
   width:1246px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u3 {
   position:absolute;
-  left:126px;
+  left:26px;
   top:100px;
   width:667px;
   height:221px;
@@ -968,7 +968,7 @@
 }
 #u88 {
   position:absolute;
-  left:126px;
+  left:26px;
   top:10px;
   width:662px;
   height:70px;
@@ -990,7 +990,7 @@
 }
 #u90 {
   position:absolute;
-  left:180px;
+  left:80px;
   top:30px;
   width:70px;
   height:25px;
@@ -1011,7 +1011,7 @@
 }
 #u91 {
   position:absolute;
-  left:138px;
+  left:38px;
   top:34px;
   width:40px;
   height:16px;
@@ -1032,7 +1032,7 @@
 }
 #u93 {
   position:absolute;
-  left:306px;
+  left:206px;
   top:30px;
   width:70px;
   height:25px;
@@ -1053,7 +1053,7 @@
 }
 #u94 {
   position:absolute;
-  left:264px;
+  left:164px;
   top:34px;
   width:40px;
   height:16px;
@@ -1074,7 +1074,7 @@
 }
 #u96 {
   position:absolute;
-  left:433px;
+  left:333px;
   top:30px;
   width:70px;
   height:25px;
@@ -1095,7 +1095,7 @@
 }
 #u97 {
   position:absolute;
-  left:393px;
+  left:293px;
   top:34px;
   width:40px;
   height:16px;
@@ -1116,7 +1116,7 @@
 }
 #u99 {
   position:absolute;
-  left:710px;
+  left:610px;
   top:30px;
   width:60px;
   height:25px;
@@ -1137,7 +1137,7 @@
 }
 #u100 {
   position:absolute;
-  left:557px;
+  left:457px;
   top:30px;
   width:70px;
   height:25px;
@@ -1158,7 +1158,7 @@
 }
 #u101 {
   position:absolute;
-  left:515px;
+  left:415px;
   top:34px;
   width:40px;
   height:16px;
@@ -1179,7 +1179,7 @@
 }
 #u103 {
   position:absolute;
-  left:636px;
+  left:536px;
   top:30px;
   width:70px;
   height:25px;
@@ -1200,7 +1200,7 @@
 }
 #u104 {
   position:absolute;
-  left:627px;
+  left:527px;
   top:34px;
   width:9px;
   height:16px;
