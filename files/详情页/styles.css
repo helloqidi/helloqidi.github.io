@@ -1113,3 +1113,26 @@
   width:66px;
   white-space:nowrap;
 }
+#u95 {
+  position:absolute;
+  left:1054px;
+  top:83px;
+  width:66px;
+  height:22px;
+}
+#u95_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:66px;
+  height:22px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+}
+#u95_input:disabled {
+  color:grayText;
+}
