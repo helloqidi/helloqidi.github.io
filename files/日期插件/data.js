@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,g,h,g,i,_(j,k),l,[m],n,_(o,p,q,r,s,t,u,_(v,w),x,_(y,z,A,B,C,_(D,E,F,G),H,null,I,B,J,B,K,L,M,null,N,O,P,Q,R,S,T,O),U,_(),V,_(),W,_(X,[])),Y,_(),Z,_());}; 
+var b="url",c="日期插件.html",d="generationDate",e=new Date(1513841266791.89),f="isCanvasEnabled",g=false,h="isAdaptiveEnabled",i="sketchKeys",j="",k="s0",l="variables",m="OnLoadVariable",n="page",o="packageId",p="8e4d1c5dbb62484283f55c1d74173af1",q="type",r="Axure:Page",s="name",t="日期插件",u="notes",v="Note",w="<p><span>操作说明：</span></p><p><span>1.创建任务时，通过插件选择循环方式，生成循环表记录；系统根据循环记录，自动创建任务；</span></p><p><span>2.编辑任务时，如果是循环方式生成的最新一条任务，可修改循环方式</span><span>；</span></p><p><span>3.系统内置好，每天8点自动下发任务。</span></p>",x="style",y="baseStyle",z="627587b6038d43cca051c114ac41ad32",A="pageAlignment",B="near",C="fill",D="fillType",E="solid",F="color",G=0xFFFFFFFF,H="image",I="imageHorizontalAlignment",J="imageVerticalAlignment",K="imageRepeat",L="auto",M="favicon",N="sketchFactor",O="0",P="colorStyle",Q="appliedColor",R="fontName",S="Applied Font",T="borderWidth",U="adaptiveStyles",V="interactionMap",W="diagram",X="objects",Y="masters",Z="objectPaths";
+return _creator();
+})());
